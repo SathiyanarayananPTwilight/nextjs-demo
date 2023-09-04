@@ -46,22 +46,22 @@ export default function Header() {
               <div className='fixed bottom-0 w-full'>
                 <div className="overflow-hidden flex  relative h-[50px]">
                   <Image src={backgroundImage} alt="background-image" layout="fill" />
-                  <div className=" animate-marquee whitespace-nowrap text-white flex align-center">
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
+                  <div className=" animate-marquee whitespace-nowrap text-white flex items-center">
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
                   </div>
 
-                  <div className=" animate-marquee whitespace-nowrap text-white flex align-center">
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
-                    <span className="text-[1.2rem] font-bold mt-2 mx-4 uppercase">lorem ipsum</span>
+                  <div className=" animate-marquee whitespace-nowrap text-white flex items-center">
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
+                    <span className="text-[1.2rem] font-bold mx-4 uppercase">lorem ipsum</span>
                   </div>
                 </div>
               </div>
